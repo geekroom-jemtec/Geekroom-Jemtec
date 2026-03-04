@@ -1,26 +1,68 @@
 <div align="center">
 
 <!-- BANNER -->
-<div align="center">
-<!-- BANNER -->
-<div align="center">
-<!-- BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0a1628,60:0d2137,100:0a3d62&height=260&section=header&text=GEEK%20ROOM&fontSize=72&fontColor=00d4ff&fontAlignY=42&fontAlign=50&desc=%3C%20JEMTEC%20%7C%20Code.%20Compete.%20Create.%20%2F%3E&descAlignY=62&descSize=20&descColor=7ecfff&animation=twinkling&stroke=00d4ff&strokeWidth=2" />
+
 <br/>
 
-<!-- SOCIAL BADGES -->
-<!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Welcome+to+Geek+Room+JEMTEC+%F0%9F%92%BB;Competitive+Programmers+%7C+Hackathon+Warriors;Open+Source+Contributors+%7C+Problem+Solvers;If+you+can+dream+it%2C+you+can+build+it." alt="Typing SVG" />
-<br/>
-<!-- SOCIAL BADGES -->
-<img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/510a7f7e-d08f-4d35-9a68-e936041d5b73" />
-
-<br/>
-
 
 </div>
 
+<br/>
+
 ---
+
+<table>
+<tr>
+<td width="35%" valign="top">
+
+<div align="center">
+
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/7d6a479a-dd2c-45ce-a9d0-d8c775090e79" />
+
+
+### Geek Room JEMTEC
+`geekroom-jemtec`
+
+*The official coding society of JEMTEC.*
+*Competitive Programmers. Hackathon Warriors. Open Source Builders.*
+
+</div>
+
+<br/>
+
+[![Followers](https://img.shields.io/github/followers/geekroom-jemtec?label=followers&style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/geekroom-jemtec?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=geekroom-jemtec&style=flat-square&color=00d4ff&label=profile+views)](https://github.com/geekroom-jemtec)
+
+<br/>
+
+📍 &nbsp;JEMTEC, Greater Noida, India
+📧 &nbsp;[geekroom@jemtec.edu.in](mailto:geekroom@jemtec.edu.in)
+💬 &nbsp;[Discord Server](https://discord.gg/yourlink)
+📸 &nbsp;[@geekroomjemtec](https://www.instagram.com/geekroom.jemtec/)
+🔗 &nbsp;[LinkedIn](https://linkedin.com)
+
+<br/>
+
+**Initiatives**
+
+- [Tech Events](#) — Envolving various ascpects not just code
+- [Hackquanta(#) — In-house hackathon series
+- [Guest lectures](#) — For exposure and knowledge
+
+**Active Projects**
+
+- [GeekRoom Website](#) — Built by members
+
+
+<br/>
+
+most active on [Instagram](https://www.instagram.com/geekroom.jemtec/)
+
+</td>
+<td width="65%" valign="top">
+
 
 🏛️ About Us
 
