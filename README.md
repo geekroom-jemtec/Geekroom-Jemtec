@@ -1,16 +1,10 @@
 <div align="center">
-
 <!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&amp;color=0:0d0d0d,40:1a0533,70:0d1f3c,100:001a2e&amp;height=280&amp;section=header&amp;text=GEEK%20ROOM&amp;fontSize=80&amp;fontColor=ffffff&amp;fontAlignY=45&amp;fontAlign=38&amp;desc=JEMTEC%20%E2%80%94%20Code.%20Compete.%20Create.&amp;descAlignY=65&amp;descSize=18&amp;descColor=b084f5&amp;stroke=7c3aed&amp;strokeWidth=3" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&amp;color=0:0d1f2d,40:0a3d4a,70:1a2a1a,100:2d1a00&amp;height=280&amp;section=header&amp;text=GEEK%20ROOM&amp;fontSize=80&amp;fontColor=00d4ff&amp;fontAlignY=45&amp;fontAlign=38&amp;desc=Code.%20Compete.%20Create.&amp;descAlignY=65&amp;descSize=20&amp;descColor=ff8c42&amp;stroke=00d4ff&amp;strokeWidth=2" />
 <!-- Subtitle row -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;pause=2000&amp;color=b084f5&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=45&amp;lines=%3E+initializing+geekroom.exe...;%3E+sudo+apt+install+curiosity;%3E+git+commit+-m+%22built+something+cool%22;%3E+while(true)+%7B+learn()+%7C%7C+build()+%7D" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;pause=2000&amp;color=ff8c42&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=45&amp;lines=%3E+initializing+geekroom.exe...;%3E+sudo+apt+install+curiosity;%3E+git+commit+-m+%22built+something+cool%22;%3E+while(true)+%7B+learn()+%7C%7C+build()+%7D" alt="Typing SVG" />
 </div>
-
 <br/>
-
----
 
 <table>
 <tr>
@@ -37,9 +31,9 @@
 
 📍 &nbsp;JEMTEC, Greater Noida, India
 📧 &nbsp;[geekroom@jemtec.edu.in](mailto:geekroom@jemtec.edu.in)
-💬 &nbsp;[Discord Server](https://discord.gg/yourlink)
 📸 &nbsp;[@geekroomjemtec](https://www.instagram.com/geekroom.jemtec/)
-🔗 &nbsp;[LinkedIn](https://linkedin.com)
+🔗 &nbsp;[LinkedIn](https://www.linkedin.com/in/geek-room-jims-emtc-484390338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+🖇️ &nbsp;[Linktree](https://linktr.ee/geekroom.jemtec)
 
 <br/>
 
@@ -54,8 +48,6 @@
 - [GeekRoom Website](#) — Built by members
 
 <br/>
-
-most active on [Instagram](https://www.instagram.com/geekroom.jemtec/)
 
 </td>
 <td width="65%" valign="top">
@@ -127,19 +119,8 @@ We're always looking for motivated individuals to join our community!
 1. 📧 **Contact us** at [geekroom@jemtec.edu.in](mailto:geekroom@jemtec.edu.in)
 2. 📸 **Instagram** — [geekroom.jemtec](https://www.instagram.com/geekroom.jemtec/)
 3. 🌟 **Star our repos** — and contribute to our open-source work
-4. 📢 **Follow us** on [LinkedIn](https://linkedin.com)
+4. 📢 **Follow us** on [LinkedIn](https://www.linkedin.com/in/geek-room-jims-emtc-484390338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geekroom-jemtec&show_icons=true&theme=dark&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117&border_color=0a3d62)
-
-</div>
-
----
 
 </td>
 </tr>
