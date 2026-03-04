@@ -24,8 +24,8 @@
 
 <br/>
 
-[![Followers](https://img.shields.io/github/followers/geekroom-jemtec?label=followers&style=flat-square&color=00d4ff&labelColor=0d1117)](https://github.com/geekroom-jemtec?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=geekroom-jemtec&style=flat-square&color=00d4ff&label=profile+views)](https://github.com/geekroom-jemtec)
+![GitHub Org](https://img.shields.io/badge/GitHub-geekroom--jemtec-00d4ff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)
+![Profile Views](https://komarev.com/ghpvc/?username=geekroom-jemtec&style=flat-square&color=ff8c42&label=profile+views)
 
 <br/>
 
@@ -137,4 +137,3 @@ We're always looking for motivated individuals to join our community!
 **⭐ Star our repositories if you find them useful!**
 
 </div>
-
