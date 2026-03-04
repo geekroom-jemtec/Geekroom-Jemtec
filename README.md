@@ -73,8 +73,6 @@ Born out of a simple idea — that students at JEMTEC deserved a space to go bey
 At Geek Room, we believe that the best way to learn is by doing — so we build real projects, fight real competitive programming battles, participate in real hackathons, and make real connections with industry professionals. No fluff. No gatekeeping. Just code, community, and the relentless drive to get better.
 Whether you're a complete beginner who just wrote their first Hello, World! or a seasoned developer hunting for your next big challenge — if you've got curiosity and the hunger to grow, you belong here.
 Welcome to Geek Room. Pull up a chair. Open your editor. Let's build something great. 🚀
----
-
 ## 🎯 What We Do
 
 | 🏆 Competitive Programming | 🌐 Open Source & Hackathons |
