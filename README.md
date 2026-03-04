@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&amp;color=0:0d1f2d,40:0a3d4a,70:1a2a1a,100:2d1a00&amp;height=280&amp;section=header&amp;text=GEEK%20ROOM&amp;fontSize=80&amp;fontColor=00d4ff&amp;fontAlignY=45&amp;fontAlign=38&amp;desc=Code.%20Compete.%20Create.&amp;descAlignY=65&amp;descSize=20&amp;descColor=ff8c42&amp;stroke=00d4ff&amp;strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&amp;color=0:0d1f2d,40:0a3d4a,70:1a2a1a,100:2d1a00&amp;height=280&amp;section=header&amp;text=GEEK%20ROOM&amp;fontSize=80&amp;fontColor=00d4ff&amp;fontAlignY=45&amp;fontAlign=38&amp;desc=Code.%20Compete.%20Create.&amp;descAlignY=65&amp;descSize=20&amp;descColor=ff8c42&amp;stroke=003d4d&amp;strokeWidth=3" />
 
 <!-- Subtitle row -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;pause=2000&amp;color=ff8c42&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=45&amp;lines=%3E+initializing+geekroom.exe...;%3E+sudo+apt+install+curiosity;%3E+git+commit+-m+%22built+something+cool%22;%3E+while(true)+%7B+learn()+%7C%7C+build()+%7D" alt="Typing SVG" />
