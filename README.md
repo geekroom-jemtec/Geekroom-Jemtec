@@ -1,11 +1,18 @@
 <div align="center">
+
 <!-- BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&amp;color=0:0d1f2d,40:0a3d4a,70:1a2a1a,100:2d1a00&amp;height=280&amp;section=header&amp;text=GEEK%20ROOM&amp;fontSize=80&amp;fontColor=00d4ff&amp;fontAlignY=45&amp;fontAlign=38&amp;desc=Code.%20Compete.%20Create.&amp;descAlignY=65&amp;descSize=20&amp;descColor=ff8c42&amp;stroke=00d4ff&amp;strokeWidth=2" />
+
 <!-- Subtitle row -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;pause=2000&amp;color=ff8c42&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=45&amp;lines=%3E+initializing+geekroom.exe...;%3E+sudo+apt+install+curiosity;%3E+git+commit+-m+%22built+something+cool%22;%3E+while(true)+%7B+learn()+%7C%7C+build()+%7D" alt="Typing SVG" />
+
 </div>
+
 <br/>
 
+---
+
+<!-- PROFILE SIDEBAR -->
 <table>
 <tr>
 <td width="35%" valign="top">
@@ -60,11 +67,19 @@ Geek Room JEMTEC isn't just a coding club — it's a movement.
 
 Born out of a simple idea — that students at JEMTEC deserved a space to go beyond the classroom, beyond the syllabus, and beyond the ordinary — Geek Room has grown into one of the most active and passionate tech communities on campus.
 
+We are developers who debug at midnight. We are competitors who grind LeetCode before exams. We are builders who turn half-baked hackathon ideas into working products in 36 hours. We are the ones who stay after class, not because we have to, but because we genuinely love what we build.
+
 At Geek Room, we believe that the best way to learn is by doing — so we build real projects, fight real competitive programming battles, participate in real hackathons, and make real connections with industry professionals. No fluff. No gatekeeping. Just code, community, and the relentless drive to get better.
+
+We run workshops, host guest lectures from industry professionals, organize coding contests, and push our members to contribute to open source. Every event, every session, every late-night debug is a step toward becoming the developer you want to be.
 
 Whether you're a complete beginner who just wrote their first `Hello, World!` or a seasoned developer hunting for your next big challenge — if you've got curiosity and the hunger to grow, you belong here.
 
 Welcome to Geek Room. Pull up a chair. Open your editor. Let's build something great. 🚀
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -120,11 +135,6 @@ We're always looking for motivated individuals to join our community!
 2. 📸 **Instagram** — [geekroom.jemtec](https://www.instagram.com/geekroom.jemtec/)
 3. 🌟 **Star our repos** — and contribute to our open-source work
 4. 📢 **Follow us** on [LinkedIn](https://www.linkedin.com/in/geek-room-jims-emtc-484390338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-
-</td>
-</tr>
-</table>
 
 ---
 
