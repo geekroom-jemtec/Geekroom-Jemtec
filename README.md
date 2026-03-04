@@ -1,11 +1,10 @@
 <div align="center">
 
 <!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:0a1628,60:0d2137,100:0a3d62&height=260&section=header&text=GEEK%20ROOM&fontSize=72&fontColor=00d4ff&fontAlignY=42&fontAlign=50&desc=%3C%20JEMTEC%20%7C%20Code.%20Compete.%20Create.%20%2F%3E&descAlignY=62&descSize=20&descColor=7ecfff&animation=twinkling&stroke=00d4ff&strokeWidth=2" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&amp;color=0:0d0d0d,40:1a0533,70:0d1f3c,100:001a2e&amp;height=280&amp;section=header&amp;text=GEEK%20ROOM&amp;fontSize=80&amp;fontColor=ffffff&amp;fontAlignY=45&amp;fontAlign=38&amp;desc=JEMTEC%20%E2%80%94%20Code.%20Compete.%20Create.&amp;descAlignY=65&amp;descSize=18&amp;descColor=b084f5&amp;stroke=7c3aed&amp;strokeWidth=3" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Welcome+to+Geek+Room+JEMTEC+%F0%9F%92%BB;Competitive+Programmers+%7C+Hackathon+Warriors;Open+Source+Contributors+%7C+Problem+Solvers;If+you+can+dream+it%2C+you+can+build+it." alt="Typing SVG" />
+<!-- Subtitle row -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=20&amp;pause=2000&amp;color=b084f5&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=45&amp;lines=%3E+initializing+geekroom.exe...;%3E+sudo+apt+install+curiosity;%3E+git+commit+-m+%22built+something+cool%22;%3E+while(true)+%7B+learn()+%7C%7C+build()+%7D" alt="Typing SVG" />
 
 </div>
 
@@ -19,8 +18,7 @@
 
 <div align="center">
 
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/7d6a479a-dd2c-45ce-a9d0-d8c775090e79" />
-
+<img width="150" height="150" alt="Geek Room Logo" src="https://github.com/user-attachments/assets/7d6a479a-dd2c-45ce-a9d0-d8c775090e79" />
 
 ### Geek Room JEMTEC
 `geekroom-jemtec`
@@ -47,14 +45,13 @@
 
 **Initiatives**
 
-- [Tech Events](#) — Envolving various ascpects not just code
-- [Hackquanta(#) — In-house hackathon series
-- [Guest lectures](#) — For exposure and knowledge
+- [Tech Events](#) — Evolving various aspects not just code
+- [Hackquanta](#) — In-house hackathon series
+- [Guest Lectures](#) — For exposure and knowledge
 
 **Active Projects**
 
 - [GeekRoom Website](#) — Built by members
-
 
 <br/>
 
@@ -63,16 +60,22 @@ most active on [Instagram](https://www.instagram.com/geekroom.jemtec/)
 </td>
 <td width="65%" valign="top">
 
+## 🏛️ About Us
 
-🏛️ About Us
-
-"Every expert was once a beginner. Every pro was once an amateur."
+> *"Every expert was once a beginner. Every pro was once an amateur."*
 
 Geek Room JEMTEC isn't just a coding club — it's a movement.
+
 Born out of a simple idea — that students at JEMTEC deserved a space to go beyond the classroom, beyond the syllabus, and beyond the ordinary — Geek Room has grown into one of the most active and passionate tech communities on campus.
+
 At Geek Room, we believe that the best way to learn is by doing — so we build real projects, fight real competitive programming battles, participate in real hackathons, and make real connections with industry professionals. No fluff. No gatekeeping. Just code, community, and the relentless drive to get better.
-Whether you're a complete beginner who just wrote their first Hello, World! or a seasoned developer hunting for your next big challenge — if you've got curiosity and the hunger to grow, you belong here.
+
+Whether you're a complete beginner who just wrote their first `Hello, World!` or a seasoned developer hunting for your next big challenge — if you've got curiosity and the hunger to grow, you belong here.
+
 Welcome to Geek Room. Pull up a chair. Open your editor. Let's build something great. 🚀
+
+---
+
 ## 🎯 What We Do
 
 | 🏆 Competitive Programming | 🌐 Open Source & Hackathons |
@@ -122,9 +125,9 @@ Welcome to Geek Room. Pull up a chair. Open your editor. Let's build something g
 We're always looking for motivated individuals to join our community!
 
 1. 📧 **Contact us** at [geekroom@jemtec.edu.in](mailto:geekroom@jemtec.edu.in)
-2. 🎀 **Instagram** at [https://www.instagram.com/geekroom.jemtec/]
+2. 📸 **Instagram** — [geekroom.jemtec](https://www.instagram.com/geekroom.jemtec/)
 3. 🌟 **Star our repos** — and contribute to our open-source work
-4. 📢 **Follow us** on [LinkedIn](https://linkedin.com) · [Instagram](https://instagram.com)
+4. 📢 **Follow us** on [LinkedIn](https://linkedin.com)
 
 ---
 
@@ -132,21 +135,25 @@ We're always looking for motivated individuals to join our community!
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geekroom-jemtec&show_icons=true&theme=dark&title_color=aec6cf&icon_color=aec6cf&bg_color=0d1117&border_color=2c5364)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=geekroom-jemtec&show_icons=true&theme=dark&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117&border_color=0a3d62)
 
 </div>
 
 ---
 
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&amp;color=0:001a2e,40:0d1f3c,70:1a0533,100:0d0d0d&amp;height=120&amp;section=footer&amp;reversal=true&amp;stroke=7c3aed&amp;strokeWidth=2"/>
 
 *"Talk is cheap. Show me the code."* — Linus Torvalds
 
 **⭐ Star our repositories if you find them useful!**
 
 </div>
-
-
 
